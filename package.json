@@ -25,5 +25,8 @@
 		"hpp": "^0.2.3",
 		"jsonwebtoken": "^9.0.1",
 		"mongoose": "^7.4.2"
+	},
+	"engines": {
+		"node": ">=16.0.0"
 	}
 }
